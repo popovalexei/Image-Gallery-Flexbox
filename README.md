@@ -16,6 +16,6 @@ Life in The Wild offers an immersive display of a breathtaking collection of nat
 
 ## Access the Site
 
-Explore the captivating world of Life in The Wild by visiting the live site at [Life in The Wild - Image Gallery](https://popovalexei.github.io/Image-Gallery-Flexbox/). Feel free to explore the imagery and share your feedback!
+Explore the captivating world of Life in The Wild by visiting the live site at [Life in The Wild - Image Gallery](https://popovalexei.github.io/Image-Gallery-Flexbox/).
 
 Feel free to contribute to the project or provide any suggestions for improvement.
