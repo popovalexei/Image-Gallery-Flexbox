@@ -1,23 +1,21 @@
-# image-gallery-flexbox
+# Life in The Wild - Image Gallery
 
-Life in The Wild is a one-page image gallery website that I developed to showcase my skills in web design and development. The website is fully responsive, meaning it looks great and works well on laptops, tablets, and mobile phones.
+Life in The Wild is a visually captivating one-page image gallery website that I developed to exhibit my expertise in web design and development. The website boasts full responsiveness, ensuring an excellent user experience across various devices, including laptops, tablets, and mobile phones.
 
-Technologies Used:
+## Technologies Used
 
-The website was built using HTML5, CSS3, and the Flexbox layout model.
+The website was meticulously crafted using the following modern technologies:
 
-Site Features:
+- HTML5
+- CSS3
+- Flexbox layout model
 
-Life in The Wild features a stunning gallery of nature and wildlife images, displayed in a grid layout. Users can hover on any image to view a larger version of the iamge.
+## Site Features
 
-Access the Site:
+Life in The Wild offers an immersive display of a breathtaking collection of nature and wildlife images, elegantly presented in a dynamic grid layout. Users can hover over any image to view an enlarged version, providing an interactive and engaging experience.
 
-You can access Life in The Wild online at https://popovalexei.github.io/Image-Gallery-Flexbox/. Check it out and let me know what you think!
+## Access the Site
 
-Life in The Wild is a great example of my skills in web design and development, showcasing my ability to create a beautiful and functional website using modern technologies like Flexbox.
+Explore the captivating world of Life in The Wild by visiting the live site at [Life in The Wild - Image Gallery](https://popovalexei.github.io/Image-Gallery-Flexbox/). Feel free to explore the imagery and share your feedback!
 
-
-
-
-
-
+Feel free to contribute to the project or provide any suggestions for improvement.
